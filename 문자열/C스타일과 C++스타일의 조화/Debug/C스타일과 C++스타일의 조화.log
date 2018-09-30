@@ -1,0 +1,5 @@
+﻿  C스타일과 C++스타일의 조화.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\문자열\c스타일과 c++스타일의 조화\c스타일과 c++스타일의 조화.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+  C스타일과 C++스타일의 조화.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\C++\리 제로카라 하지마루 C++ 세카츠\문자열\Debug\C스타일과 C++스타일의 조화.exe
+  C스타일과 C++스타일의 조화.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\C++\리 제로카라 하지마루 C++ 세카츠\문자열\Debug\C스타일과 C++스타일의 조화.pdb (Partial PDB)

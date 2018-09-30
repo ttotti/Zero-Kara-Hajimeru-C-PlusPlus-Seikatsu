@@ -1,0 +1,5 @@
+﻿  네임스페이스.cpp
+네임스페이스.obj : error LNK2019: "void __cdecl Dog::CreateAll(void)" (?CreateAll@Dog@@YAXXZ) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+네임스페이스.obj : error LNK2019: "public: void __thiscall Cat::Info::Meow(void)" (?Meow@Info@Cat@@QAEXXZ) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+네임스페이스.obj : error LNK2019: "void __cdecl Cat::CreateAll(void)" (?CreateAll@Cat@@YAXXZ) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\C++\리 제로카라 하지마루 C++ 세카츠\C++ 고급기능\Debug\네임스페이스.exe : fatal error LNK1120: 3개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열과 구조체와 포인터", "배열과 구조체와 포인터\배열과 구조체와 포인터.vcxproj", "{90CFB89D-3184-4E52-A9CE-32A864B353DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "포인터의 덧셈과 뺄셈", "포인터의 덧셈과 뺄셈\포인터의 덧셈과 뺄셈.vcxproj", "{6AB1D842-DC93-4802-8D7D-68F395C968AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "배열과 포인터", "배열과 포인터\배열과 포인터.vcxproj", "{671A18D8-2C59-485D-A97D-5683690490F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Debug|x64.ActiveCfg = Debug|x64
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Debug|x64.Build.0 = Debug|x64
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Debug|x86.Build.0 = Debug|Win32
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Release|x64.ActiveCfg = Release|x64
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Release|x64.Build.0 = Release|x64
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Release|x86.ActiveCfg = Release|Win32
+		{90CFB89D-3184-4E52-A9CE-32A864B353DE}.Release|x86.Build.0 = Release|Win32
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Debug|x64.ActiveCfg = Debug|x64
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Debug|x64.Build.0 = Debug|x64
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Debug|x86.Build.0 = Debug|Win32
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Release|x64.ActiveCfg = Release|x64
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Release|x64.Build.0 = Release|x64
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Release|x86.ActiveCfg = Release|Win32
+		{6AB1D842-DC93-4802-8D7D-68F395C968AE}.Release|x86.Build.0 = Release|Win32
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Debug|x64.ActiveCfg = Debug|x64
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Debug|x64.Build.0 = Debug|x64
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Debug|x86.Build.0 = Debug|Win32
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Release|x64.ActiveCfg = Release|x64
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Release|x64.Build.0 = Release|x64
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Release|x86.ActiveCfg = Release|Win32
+		{671A18D8-2C59-485D-A97D-5683690490F2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

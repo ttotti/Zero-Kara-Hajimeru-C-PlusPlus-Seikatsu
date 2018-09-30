@@ -1,0 +1,5 @@
+﻿  const 함수.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\객체지향 프로그래밍\const 함수\const 함수.cpp(24): error C2662: 'int Point::GetY(void)': 'this' 포인터를 'const Point'에서 'Point &'(으)로 변환할 수 없습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\객체지향 프로그래밍\const 함수\const 함수.cpp(24): note: 변환하면서 한정자가 손실됩니다.
+  Point.cpp
+  코드를 생성하고 있습니다...

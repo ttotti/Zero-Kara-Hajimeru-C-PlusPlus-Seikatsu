@@ -1,0 +1,4 @@
+﻿  공용체.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\복합 타입의 모든것\복합 타입의 모든것\공용체.cpp(30): warning C4309: '=': 상수 값이 잘립니다.
+  복합 타입의 모든것.vcxproj -> c:\users\lim-ttotti\documents\visual studio 2017\Projects\복합 타입의 모든것\Debug\공용체.exe
+  복합 타입의 모든것.vcxproj -> c:\users\lim-ttotti\documents\visual studio 2017\Projects\복합 타입의 모든것\Debug\공용체.pdb (Partial PDB)

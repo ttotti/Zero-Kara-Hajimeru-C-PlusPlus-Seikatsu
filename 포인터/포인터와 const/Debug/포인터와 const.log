@@ -1,0 +1,5 @@
+﻿  포인터와 const.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\포인터\포인터와 const\포인터와 const.cpp(43): error C3892: 'pp': const인 변수에 할당할 수 없습니다.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\포인터\포인터와 const\포인터와 const.cpp(51): error C3892: 'ppp': const인 변수에 할당할 수 없습니다.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\포인터\포인터와 const\포인터와 const.cpp(56): error C3892: 'pppp': const인 변수에 할당할 수 없습니다.
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\포인터\포인터와 const\포인터와 const.cpp(57): error C3892: 'pppp': const인 변수에 할당할 수 없습니다.

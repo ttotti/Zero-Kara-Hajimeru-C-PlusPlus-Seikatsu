@@ -1,0 +1,5 @@
+﻿  문자열의 비교와 결합.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\문자열\문자열의 비교와 결합\문자열의 비교와 결합.cpp(11): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 'strcat' 선언을 참조하십시오.
+  문자열의 비교와 결합.vcxproj -> c:\users\lim-ttotti\documents\visual studio 2017\Projects\문자열\Debug\문자열의 비교와 결합.exe
+  문자열의 비교와 결합.vcxproj -> c:\users\lim-ttotti\documents\visual studio 2017\Projects\문자열\Debug\문자열의 비교와 결합.pdb (Partial PDB)

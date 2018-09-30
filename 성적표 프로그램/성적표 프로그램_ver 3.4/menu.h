@@ -1,0 +1,13 @@
+#ifndef MENU_H
+#define MENU_H
+
+// 메뉴의 종류
+enum MENU {
+	MENU_ADD_STUDENT, MENU_ADD_STDUENT_ENG, MENU_SHOW_ALL,
+	MENU_SAVE_TEXT, MENU_SAVE_HTML, MENU_QUIT
+};
+
+
+MENU ShowMenu();
+
+#endif

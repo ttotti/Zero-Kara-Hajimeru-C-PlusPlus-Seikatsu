@@ -1,0 +1,4 @@
+﻿  객체지향 프로그래밍.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\객체지향 프로그래밍\객체지향 프로그래밍\객체지향 프로그래밍.cpp(22): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  객체지향 프로그래밍.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\C++\리 제로카라 하지마루 C++ 세카츠\객체지향 프로그래밍\Debug\객체지향 프로그래밍.exe
+  객체지향 프로그래밍.vcxproj -> C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\C++\리 제로카라 하지마루 C++ 세카츠\객체지향 프로그래밍\Debug\객체지향 프로그래밍.pdb (Partial PDB)

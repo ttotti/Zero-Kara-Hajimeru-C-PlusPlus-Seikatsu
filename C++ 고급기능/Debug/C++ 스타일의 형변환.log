@@ -1,0 +1,5 @@
+﻿  C++ 스타일의 형변환.cpp
+c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\c++ 고급기능\c++ 스타일의 형변환\c++ 스타일의 형변환.cpp(142): error C2666: 'Complex::operator +': 2개 오버로드에 비슷한 변환이 있습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\c++ 고급기능\c++ 스타일의 형변환\complex.h(22): note: 'Complex Complex::operator +(const Complex &)'일 수 있습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\c++ 고급기능\c++ 스타일의 형변환\c++ 스타일의 형변환.cpp(142): note: 또는       '기본 제공 C++ 연산자+(int, int)'일 수 있습니다.
+  c:\users\lim-ttotti\documents\visual studio 2017\projects\c++\리 제로카라 하지마루 c++ 세카츠\c++ 고급기능\c++ 스타일의 형변환\c++ 스타일의 형변환.cpp(142): note: 인수 목록 '(Complex, int)'을(를) 일치시키는 동안

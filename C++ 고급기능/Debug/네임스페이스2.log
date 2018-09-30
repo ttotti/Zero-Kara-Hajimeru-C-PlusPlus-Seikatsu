@@ -1,0 +1,5 @@
+﻿  네임스페이스2.cpp
+  NoNamespace.cpp
+  코드를 생성하고 있습니다...
+네임스페이스2.obj : error LNK2001: "int g" (?g@@3HA) 외부 기호를 확인할 수 없습니다.
+C:\Users\Lim-ttotti\Documents\Visual Studio 2017\Projects\C++\리 제로카라 하지마루 C++ 세카츠\C++ 고급기능\Debug\네임스페이스2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
